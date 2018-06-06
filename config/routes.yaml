@@ -1,0 +1,10 @@
+# app/config/routing.yml
+#app:
+#    resource: "@App/Controller/LuckyController.php"# If App is a registered bundle
+#    type: annotation
+
+# import routes from a controller class
+
+App\Controller\:
+    resource: '../src/Controller/'
+    type: annotation

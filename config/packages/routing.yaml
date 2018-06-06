@@ -1,0 +1,15 @@
+framework:
+    router:
+        strict_requirements: ~
+
+#lucky:
+#    path: /lucky/number
+#    defaults: {_controller: 'App\Controller\LuckyController::indexAction'}
+#
+#test:
+#    path: /
+#    defaults: {_controller: 'App\Controller\LuckyController::testAction'}
+#
+#login:
+#    path: /login
+#    defaults: {_controller: 'App\Controller\LoginController::getAction'}
